@@ -10,10 +10,7 @@ function App() {
       <div className="">PORTFOLIO</div>
       <div className="">PORTFOLIO</div>
       <div className="">PORTFOLIO</div>
-      <div className="">PORTFOLIO</div>
-      <div className="">PORTFOLIO</div>
-      <div className="">PORTFOLIO</div>
-      <div className="">PORTFOLIO</div>
+      
     </>
   );
 }
